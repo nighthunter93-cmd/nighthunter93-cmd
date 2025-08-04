@@ -1,46 +1,62 @@
-```markdown
-# 🔍 Welcome to the Profile of nighthunter93-cmd
+<h1 align="center">🔍 欢迎来到 nighthunter93-cmd 的情报世界！</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FACC&center=true&vCenter=true&width=500&lines=情报猎人+在线...;数据驱动+安全洞察;正在追踪目标..." alt="Typing SVG">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nighthunter93-cmd&theme=dark&show_icons=true)
-![Profile Views](https://komarev.com/ghpvc/?username=nighthunter93-cmd&color=blue)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nighthunter93-cmd&theme=dark)
-
----
-
-## 🌐 About Me
-
-Hello! I'm **nighthunter93-cmd**, an OSINT (Open Source Intelligence) Analyst with a passion for uncovering hidden information and providing actionable insights. With a keen eye for detail and a relentless pursuit of knowledge, I specialize in gathering data from publicly available sources to help organizations make informed decisions. 
-
-I believe in the power of data-driven insights and am dedicated to enhancing security, awareness, and understanding through comprehensive analysis. Let’s connect and explore the world of intelligence!
+<p align="center">
+  <img src="https://media.giphy.com/media/f9hnhCPWn75Hh3Fv3z/giphy.gif" width="300" />
+</p>
 
 ---
 
-## 📡 Tech Stack
+## 🧠 关于我（About Me）
 
-Here are the tools and technologies I frequently use in my OSINT investigations:
+你好！我是 **nighthunter93-cmd**，一名专注于 **开源情报（OSINT）分析** 的情报专家。🔎
 
-- **Languages & Frameworks**: Python, JavaScript, R
-- **Data Visualization**: Tableau, Matplotlib, Power BI
-- **Web Scraping**: BeautifulSoup, Scrapy, Selenium
-- **Databases**: SQL, MongoDB
-- **Cybersecurity Tools**: Maltego, Shodan, TheHarvester
-- **APIs**: Google APIs, Twitter API, LinkedIn API
+💼 我的使命是从 **公开数据源中提取隐藏信息**，帮助组织做出明智决策。  
+⚙️ 我热爱破解谜团，揭示网络背后的真相。  
+🌐 数据是我的武器，分析是我的语言。
 
----
-
-## 🔐 Contact
-
-Feel free to reach out if you have any questions or collaboration opportunities! 
-
-- 📨 **Email**: [nighthunter93-cmd@example.com](mailto:nighthunter93-cmd@example.com)
-- 🌐 **LinkedIn**: [linkedin.com/in/nighthunter93-cmd](https://linkedin.com/in/nighthunter93-cmd)
-- 💼 **Twitter**: [@nighthunter93-cmd](https://twitter.com/nighthunter93-cmd)
+> 🧭 **情报不是魔术，而是方法。**
 
 ---
 
-Thank you for visiting my profile! Let's uncover the unknown together. 🕵️‍♂️
-```
+## 💻 技术栈（Tech Stack）
 
-This README is structured to provide a professional overview of the user "nighthunter93-cmd" while utilizing dynamic elements and emojis related to OSINT. It includes sections that highlight their skills, tools, and contact information effectively.
+🎯 我在调查分析中常用以下工具和技术：
+
+- 🐍 编程语言：Python, JavaScript, R  
+- 📊 数据可视化：Tableau, Power BI, Matplotlib  
+- 🌐 网络爬虫：Selenium, Scrapy, BeautifulSoup  
+- 🗃️ 数据库：MongoDB, SQL  
+- 🔐 网络安全工具：Maltego, Shodan, TheHarvester  
+- 🔗 API 应用：Google API, Twitter API, LinkedIn API
+
+---
+
+## 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nighthunter93-cmd&theme=tokyonight&show_icons=true" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nighthunter93-cmd&theme=tokyonight" height="170">
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nighthunter93-cmd&color=brightgreen" />
+</p>
+
+---
+
+## 📬 联系方式（Contact）
+
+💌 **电子邮箱**：nighthunter93-cmd@example.com  
+💼 **LinkedIn**：https://linkedin.com/in/nighthunter93-cmd  
+🐦 **Twitter**：https://twitter.com/nighthunter93-cmd
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/eL57U2YB5U8rM/giphy.gif" width="250">
+</p>
+
+<h3 align="center">谢谢访问！我们一起追踪未知 🕵️‍♂️</h3>
